@@ -4,7 +4,7 @@ metadata:
   name: "asdasd"
   description: "testesteste-blobloblog"
   annotations:
-    github.com/project-slug: sjflausino/asdasd
+    github.com/project-slug: ValberJunior/asdasd
     backstage.io/techdocs-ref: dir:.
     github.com/workflows: ci.yml
 spec:
